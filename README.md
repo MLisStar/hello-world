@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-i love: Chocolate: Pizza
+I love: Chocolate: Pizza
